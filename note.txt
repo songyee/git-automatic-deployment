@@ -1,2 +1,4 @@
 "My project" 
 "My project2" 
+"My project"  สร้างไฟล์ชื่อ note.txt ใส่ข้อความว่า "My Project"
+"My project" 
